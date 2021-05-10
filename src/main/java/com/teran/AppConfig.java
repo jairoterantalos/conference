@@ -1,3 +1,5 @@
+package com.teran;
+
 import com.teran.repository.HibernateSpeakerRepositoryImpl;
 import com.teran.repository.SpeakerRepository;
 import com.teran.service.SpeakerService;
